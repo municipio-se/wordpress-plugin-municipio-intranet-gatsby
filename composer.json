@@ -2,7 +2,7 @@
   "name": "municipio/municipio-intranet-gatsby",
   "description": "Adapts Municipio intranet for Gatsby",
   "type": "wordpress-plugin",
-  "license": "MIT",
+  "license": "AGPL-3.0-or-later",
   "autoload": {
     "psr-4": {
       "Municipio\\MunicipioIntranetGatsby\\": "src/"
