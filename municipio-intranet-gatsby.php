@@ -3,7 +3,7 @@
 /**
  * Plugin Name:       Municipio Intranet Gatsby
  * Description:       Adapts Municipio intranet for Gatsby
- * Version:           0.1.0
+ * Version:           1.0.0
  * Author:            Whitespace Dev
  */
 
